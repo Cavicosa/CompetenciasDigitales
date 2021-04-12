@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="42px" viewBox="0 0 193 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Progress Bar/Small 60</title>
+    <g id="Progress-Bar/Small-60" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05.-Numbers/04.-Progress-Bar/Small">
+            <g id="Line" transform="translate(0.000000, 29.000000)" fill="#E9ECEF">
+                <rect id="Shape-Rounded" x="0" y="0" width="193" height="8" rx="4"></rect>
+            </g>
+            <g id="Progress" transform="translate(0.000000, 29.000000)" fill="#F8B133">
+                <rect id="Shape-Rounded" x="0" y="0" width="117" height="8" rx="4"></rect>
+            </g>
+            <text id="On-Going" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="21" fill="#6A7178">
+                <tspan x="0" y="14">Completado</tspan>
+            </text>
+            <text id="60%" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="21" fill="#00263A">
+                <tspan x="177.427734" y="13">60</tspan>
+                <tspan x="180.551758" y="34">%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
